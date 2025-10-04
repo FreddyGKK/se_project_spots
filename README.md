@@ -23,3 +23,9 @@ Spots is a modern web-based social media platform that allows users to share, ex
 This website is deployed to GitHub Pages
 
 - [Deployment Link](https://freddygkk.github.io/se_project_spots/)
+
+## Video
+
+This is a video that explains and demonstrates the project.
+
+- [Video Link](https://drive.google.com/file/d/1Wq_aDRiJtOeqWlPzobdwrrrpasBc6G_k/view?usp=share_link)

@@ -34,7 +34,6 @@
   height: 20px;
   border: none rgba(33, 33, 33, 1);
   opacity: 0.4;
-  border-width: 2px;
   background-color: #fcf5e5;
   margin: 12px 0 0;
   cursor: pointer;
@@ -63,9 +62,4 @@
     max-width: 200px;
     font-size: 16px;
   }
-}
-
-.card_like-button {
-  width: 20;
-  height: 18px;
 }
