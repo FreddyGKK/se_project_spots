@@ -14,7 +14,6 @@
 .profile__column {
   display: flex;
   flex-direction: column;
-  width: 420px;
 }
 .profile__name {
   margin: 0;
@@ -60,6 +59,7 @@
   text-align: start;
   cursor: pointer;
   transition: opacity 0.5s;
+  display: flex;
 }
 
 .profile__new-button {
@@ -132,6 +132,7 @@
   .profile__edit-button {
     margin: 32px 0 0;
     text-align: center;
+    align-self: center;
   }
 
   .profile__new-button {
